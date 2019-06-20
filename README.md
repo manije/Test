@@ -72,8 +72,8 @@
 
   II. Change sorting: (مواردی که در قسمت فیلتر انتخاب می شود در این قسمت تغیین می شود موارد کشف شده بر چه اساسی نمایش داده شود)
       <div style="width:20%">
-
-      ![](./Images/f1.png)</div>
+    ![](./Images/f1.png)</div>
+    
     - Relevance
     - Likes
     - Commented
