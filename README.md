@@ -44,6 +44,7 @@
 
   I. Filter:
      <img src='./Images/f2.png' width='20%'> 
+   
     - Category
     - Diet
     - Cuisine
@@ -53,6 +54,7 @@
 
   II. Change sorting: (مواردی که در قسمت فیلتر انتخاب می شود در این قسمت تغیین می شود موارد کشف شده بر چه اساسی نمایش داده شود)
      <img src='./Images/f1.png' width='20%'>
+    
     - Relevance
     - Likes
     - Commented
