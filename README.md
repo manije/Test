@@ -61,8 +61,8 @@
 
   I. Filter:
     <div style="width:20%">
-
-    ![](./Images/f2.png)</div>
+   ![](./Images/f2.png)</div>
+    
     - Category
     - Diet
     - Cuisine
