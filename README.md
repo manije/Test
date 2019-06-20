@@ -27,7 +27,9 @@
 
 
 <div style="width:50%">
+
 ![home -fullwidth](./Images/a2.jpeg)
+
 </div>
 
 
@@ -37,28 +39,30 @@
 
 
 <div style="width:50%">
+
 ![home](./Images/a3.jpeg)
+
 </div>
 
 > <p id="search">Search</p>
 
 1. در این قسمت میتوانید مستقیما موردی را که می خواهید سرچ کنید( مثلا نوع غذا مورد نظر یا کشور مورد نظر یا هر کلید واژه دیگر)
     <div style="width:30%">
+
     ![](./Images/s2.jpeg)
     </div>
 2. بطور پیش فرض گزینه هایی در اختیار شما قرار میگیرد که با انتخاب هر کدام میتوانید  غذاهای مربوط به آن بخش را مشاهده کنید (مثل انتخاب پاستا یا دسر یا غذاهایی که سریع آماده می شوند.)
 
   <div style="width:30%">
+
   ![](./Images/s3.jpeg)
   </div>
-
 3. در بخش سوم می توانید مستقیم یکسری از فیلتر ها را اعمال کنید
 
   I. Filter:
-    
     <div style="width:20%">
+
     ![](./Images/f2.png)</div>
-    
     - Category
     - Diet
     - Cuisine
@@ -67,10 +71,9 @@
     - type
 
   II. Change sorting: (مواردی که در قسمت فیلتر انتخاب می شود در این قسمت تغیین می شود موارد کشف شده بر چه اساسی نمایش داده شود)
-     
-     <div style="width:20%">
+      <div style="width:20%">
+
       ![](./Images/f1.png)</div>
-    
     - Relevance
     - Likes
     - Commented
@@ -79,7 +82,7 @@
 > <p id="shoppingList">Shopping List</p>
 
 در این بخش می توانید مواردی که قبلا به قسمت لیست خرید اضافه کرده اید را ما مشاهده کنید. ( در این بخش مواد غذایی و مقداری که شما لازم دارید نمایش داده می شود)
-
 <div style="width:50%">
+
 ![](./Images/s1.png)</div>
 > <p id="profile">Profile</p>
