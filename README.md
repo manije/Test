@@ -17,7 +17,7 @@
 > <p id="aboutApp">درباره اپلیکیشن</p>
 
 
-![Profile]('./Images/a2.jpeg' | width=100)
+![Profile](./Images/a2.jpeg | width=100)
 
 > 1. <p id="Home">Home</p>
 
