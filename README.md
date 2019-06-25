@@ -17,7 +17,7 @@
 > <p id="aboutApp">درباره اپلیکیشن</p>
 
 
-![Profile](./Images/a2.jpeg | width=100)
+![](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png | width=100)
 
 > 1. <p id="Home">Home</p>
 
